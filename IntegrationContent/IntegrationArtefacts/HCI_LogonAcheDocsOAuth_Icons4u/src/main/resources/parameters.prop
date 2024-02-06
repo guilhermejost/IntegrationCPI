@@ -1,0 +1,5 @@
+#Tue Feb 06 12:57:20 UTC 2024
+client_secret=bFbVkoHoKQnTmfMnxuOBmITzbv9KzsNA
+address=https\://api.dev.achedigital.com.br/v2/achedoc/access-token
+grant_type=client_credencials
+client_id=5bbiwOPwnRhmNgfx
