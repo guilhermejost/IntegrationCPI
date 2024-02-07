@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 SAP-RuntimeProfile: iflmap
 Bundle-SymbolicName: IntegrationIflow_CICD; singleton:=true
 Bundle-Name: IntegrationIflow_CICD
-Bundle-Version: 1.0.1
+Bundle-Version: 1.0.2
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: IntegrationIflow_CICD
 SAP-NodeType: IFLMAP
