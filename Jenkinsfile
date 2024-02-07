@@ -3,7 +3,7 @@ pipeline {
 
 	//Configure the following environment variables before executing the Jenkins Job	
 	environment {
-		IntegrationFlowID = "HCI_LogonAcheDocsOAuth_Icons4u"
+		IntegrationFlowID = "IntegrationIflow_CICD"
 		CPIHost = "${env.CPI_HOST}"
 		CPICredentials = "${env.CPI_OAUTH_CRED}"	
 		GITRepositoryURL  = "${env.GIT_REPOSITORY_URL}"
